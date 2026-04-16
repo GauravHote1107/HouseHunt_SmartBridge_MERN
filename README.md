@@ -39,7 +39,7 @@ git clone https://github.com/GauravHote1107/HouseHunt_SmartBridge_MERN ```
 
 3. Run the Project:
     #### Backend
-    npm start
+    npm run dev
 
     #### Frontend
     npm run dev
