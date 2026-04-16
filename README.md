@@ -21,3 +21,28 @@ With a focus on transparency, accuracy, and 24/7 accessibility, HouseHunt serves
 - Tailwind CSS for styling
 - Framer Motion for animations
 - React Router for navigation
+
+
+## Getting Started
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+git clone https://github.com/GauravHote1107/HouseHunt_SmartBridge_MERN ```
+
+ 2. Install Dependencies:
+    cd backend
+    npm install
+
+    cd frontend
+    npm install
+
+3. Run the Project:
+    #### Backend
+    npm run dev
+
+    #### Frontend
+    npm run dev
+
+### Contributors:
+Hussain Vahora
